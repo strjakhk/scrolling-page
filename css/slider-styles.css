@@ -1,0 +1,24 @@
+/* estilos obligatorios para el slider */
+
+.slider-transition{
+    transition: transform 1s ease-in-out 0s !important;
+}
+
+.slider-content{
+    overflow: hidden !important;
+    padding: 0px !important;
+}
+
+.slider-parent{
+    display: flex !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.slider-item{
+    box-sizing: border-box !important;
+    margin: 0px !important;
+    padding: 0px 10px;
+}
+
+/* end */
